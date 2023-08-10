@@ -1,3 +1,5 @@
+```
+
 import { useEffect, useRef, useState } from "react";
 
 const LazyImage = ({ src, alt, className }) => {
@@ -25,3 +27,6 @@ const LazyImage = ({ src, alt, className }) => {
 };
 
 export default LazyImage;
+
+
+```
